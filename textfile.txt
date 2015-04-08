@@ -1,0 +1,12 @@
+
+Michelles-MBP-2:PRIME gamezorz$ mkdir GitPRIME
+Michelles-MBP-2:PRIME gamezorz$ cd GitPRIME
+Michelles-MBP-2:GitPRIME gamezorz$ git init
+Michelles-MBP-2:GitPRIME gamezorz$ touch README.md
+Michelles-MBP-2:GitPRIME gamezorz$ touch textfile.txt
+Michelles-MBP-2:GitPRIME gamezorz$ git add .
+Michelles-MBP-2:GitPRIME gamezorz$ git commit -m “Add initial files”
+Michelles-MBP-2:GitPRIME gamezorz$ git remote add GitPRIME https://github.com/mc-funk/GitPRIME.git
+Michelles-MBP-2:GitPRIME gamezorz$ git push -u GitPRIME master
+
+
